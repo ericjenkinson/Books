@@ -1,0 +1,242 @@
+[
+  {
+    "title": "The Crimson Cipher",
+    "author": "Elara Vance",
+    "genre": "Mystery",
+    "publicationYear": 1998,
+    "pages": 342,
+    "isbn": "978-1934567890"
+  },
+  {
+    "title": "Echoes of Nebula",
+    "author": "Jaxon Reed",
+    "genre": "Science Fiction",
+    "publicationYear": 2015,
+    "pages": 512,
+    "isbn": "978-0987654321"
+  },
+  {
+    "title": "The Gilded Serpent",
+    "author": "Seraphina Moon",
+    "genre": "Fantasy",
+    "publicationYear": 2003,
+    "pages": 620,
+    "isbn": "978-1122334455"
+  },
+  {
+    "title": "A Study in Shadows",
+    "author": "Arthur Croft",
+    "genre": "Mystery",
+    "publicationYear": 1985,
+    "pages": 288,
+    "isbn": "978-1231231234"
+  },
+  {
+    "title": "The Last Voyager",
+    "author": "Kaelen Stone",
+    "genre": "Science Fiction",
+    "publicationYear": 2021,
+    "pages": 430,
+    "isbn": "978-5544332211"
+  },
+  {
+    "title": "Whispers of the Old Wood",
+    "author": "Fiona Blackwood",
+    "genre": "Fantasy",
+    "publicationYear": 1992,
+    "pages": 710,
+    "isbn": "978-9876543210"
+  },
+  {
+    "title": "The Quantum Paradox",
+    "author": "Dr. Aris Thorne",
+    "genre": "Science Fiction",
+    "publicationYear": 2019,
+    "pages": 390,
+    "isbn": "978-0101010101"
+  },
+  {
+    "title": "The Alchemist's Secret",
+    "author": "Marcus Aurelian",
+    "genre": "Historical Fiction",
+    "publicationYear": 2007,
+    "pages": 415,
+    "isbn": "978-2233445566"
+  },
+  {
+    "title": "City of Glass and Steel",
+    "author": "Orion Valo",
+    "genre": "Cyberpunk",
+    "publicationYear": 2023,
+    "pages": 488,
+    "isbn": "978-7766554433"
+  },
+  {
+    "title": "The King's Folly",
+    "author": "Rowan Ashworth",
+    "genre": "Fantasy",
+    "publicationYear": 1978,
+    "pages": 850,
+    "isbn": "978-1234567891"
+  },
+  {
+    "title": "The Silent Witness",
+    "author": "Clara Bishop",
+    "genre": "Mystery",
+    "publicationYear": 2011,
+    "pages": 312,
+    "isbn": "978-9988776655"
+  },
+  {
+    "title": "Starship Hyperion",
+    "author": "Leo Vance",
+    "genre": "Science Fiction",
+    "publicationYear": 2005,
+    "pages": 450,
+    "isbn": "978-1111222233"
+  },
+  {
+    "title": "The Dragon's Heir",
+    "author": "Lyra Swift",
+    "genre": "Fantasy",
+    "publicationYear": 2018,
+    "pages": 590,
+    "isbn": "978-4444555566"
+  },
+  {
+    "title": "Midnight at the Manor",
+    "author": "Agatha Holmes",
+    "genre": "Mystery",
+    "publicationYear": 1995,
+    "pages": 275,
+    "isbn": "978-7777888899"
+  },
+  {
+    "title": "Beyond the Event Horizon",
+    "author": "Silas Knight",
+    "genre": "Science Fiction",
+    "publicationYear": 2010,
+    "pages": 530,
+    "isbn": "978-0000111122"
+  },
+  {
+    "title": "The Weaver's Prophecy",
+    "author": "Elias Thorn",
+    "genre": "Fantasy",
+    "publicationYear": 2001,
+    "pages": 680,
+    "isbn": "978-3333222211"
+  },
+  {
+    "title": "The Venice Deception",
+    "author": "Isabella Rossi",
+    "genre": "Thriller",
+    "publicationYear": 2016,
+    "pages": 399,
+    "isbn": "978-6666555544"
+  },
+  {
+    "title": "Martian Genesis",
+    "author": "Eva Rostova",
+    "genre": "Science Fiction",
+    "publicationYear": 2020,
+    "pages": 410,
+    "isbn": "978-2222333344"
+  },
+  {
+    "title": "The Emerald Crown",
+    "author": "Gareth Finn",
+    "genre": "Fantasy",
+    "publicationYear": 1989,
+    "pages": 720,
+    "isbn": "978-5555666677"
+  },
+  {
+    "title": "The Tokyo Code",
+    "author": "Kenji Tanaka",
+    "genre": "Mystery",
+    "publicationYear": 2008,
+    "pages": 360,
+    "isbn": "978-8888999900"
+  },
+  {
+    "title": "Andromeda's Wake",
+    "author": "Zara Khan",
+    "genre": "Science Fiction",
+    "publicationYear": 2013,
+    "pages": 495,
+    "isbn": "978-1212121212"
+  },
+  {
+    "title": "The Sunken Kingdom",
+    "author": "Cora Lee",
+    "genre": "Fantasy",
+    "publicationYear": 2022,
+    "pages": 510,
+    "isbn": "978-3434343434"
+  },
+  {
+    "title": "The Last Detective",
+    "author": "Rex Malone",
+    "genre": "Noir",
+    "publicationYear": 1953,
+    "pages": 240,
+    "isbn": "978-5656565656"
+  },
+  {
+    "title": "Project Chimera",
+    "author": "Alex Mercer",
+    "genre": "Techno-Thriller",
+    "publicationYear": 2017,
+    "pages": 440,
+    "isbn": "978-7878787878"
+  },
+  {
+    "title": "The Winter Queen",
+    "author": "Helena Frost",
+    "genre": "Fantasy",
+    "publicationYear": 2006,
+    "pages": 630,
+    "isbn": "978-9090909090"
+  },
+  {
+    "title": "The Lazarus Vector",
+    "author": "Simon Grey",
+    "genre": "Thriller",
+    "publicationYear": 2012,
+    "pages": 380,
+    "isbn": "978-0123456789"
+  },
+  {
+    "title": "Voidfall",
+    "author": "Nyx Aster",
+    "genre": "Science Fiction",
+    "publicationYear": 2024,
+    "pages": 500,
+    "isbn": "978-4567890123"
+  },
+  {
+    "title": "The Shadow of the Griffin",
+    "author": "Tiberius Stone",
+    "genre": "Fantasy",
+    "publicationYear": 1999,
+    "pages": 780,
+    "isbn": "978-7654321098"
+  },
+  {
+    "title": "The Cypress Cover-Up",
+    "author": "Penelope Ward",
+    "genre": "Mystery",
+    "publicationYear": 2009,
+    "pages": 315,
+    "isbn": "978-2345678901"
+  },
+  {
+    "title": "Echoes of Eternity",
+    "author": "Aethelred",
+    "genre": "Historical Fantasy",
+    "publicationYear": 1982,
+    "pages": 810,
+    "isbn": "978-5432109876"
+  }
+]
